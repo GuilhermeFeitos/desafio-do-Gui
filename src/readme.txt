@@ -1,17 +1,17 @@
-//# 1 Desafio Classificador de nível de Herói
+# 1 Desafio Classificador de nível de Herói
 
-//O que deve ser utilizado
+O que deve ser utilizado
 
-/*
+
 - Variáveis
 - Operadores
 - Laços de repetição
 - Estrutura de decisões
-*/
+
 
 // Objetivo
 
-/*
+
 Crie uma variável para armazenar o nome e a queantidade de experiência (XP) de um
 herói, depois utilize uma estrutura de decisão para apresentar alguma das 
 mensagens abaixo:
@@ -29,13 +29,10 @@ Se XP for maior ou igual a 10.001 = Radiante
 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}"
-*/
+
 
 // Desafio 1 entregue no dia 18.08.25 01:43AM
 
-/*
-
 Desafio 1 - utilizando function
 Desafio 1.1 - Refatorado com switch
-
-*/
+Desafio 1.2 - Refatorado com if e elseif
