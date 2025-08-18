@@ -8,7 +8,7 @@ let nivel;
 
 switch (true) {
 
-    case (xpHero >= 0 && xpHero <= 1000):
+    case (xpHero <= 1000):
         nivel = "está no nível Ferro"
     break;
     
