@@ -32,3 +32,10 @@ Ao final deve se exibir uma mensagem:
 */
 
 // Desafio 1 entregue no dia 18.08.25 01:43AM
+
+/*
+
+Desafio 1 - utilizando function
+Desafio 1.1 - Refatorado com switch
+
+*/
