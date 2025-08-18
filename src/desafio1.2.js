@@ -1,20 +1,20 @@
 let nameHero = "Guins";
-let xpHero = 9250;
+let xpHero = 1;
 let nivel;
 
-if (xpHero === 0 || xpHero <= 1000){
+if (xpHero === 0 && xpHero <= 1000){
    nivel = "está no nível Ferro"
-} else if (xpHero === 1001 || xpHero <= 2000 ){
+} else if (xpHero === 1001 && xpHero <= 2000 ){
     nivel = "está no nível Bronze"
-} else if (xpHero === 2001 || xpHero <= 5000){
+} else if (xpHero === 2001 && xpHero <= 5000){
     nivel = "está no nível Prata"
-} else if (xpHero === 5001 || xpHero <= 7000){
+} else if (xpHero === 5001 && xpHero <= 7000){
     nivel = "está no nível Ouro"
-} else if (xpHero === 7001 || xpHero <= 8000){
+} else if (xpHero === 7001 && xpHero <= 8000){
     nivel = "está no nível Platina"
-} else if (xpHero === 8001 || xpHero <= 9000 ){
+} else if (xpHero === 8001 && xpHero <= 9000 ){
     nivel = "está no nível Ascendente"
-} else if (xpHero === 9001 || xpHero <= 10000){
+} else if (xpHero === 9001 && xpHero <= 10000){
     nivel = "está no nível Imortal"
 } else {
     nivel = "está no nível Radiante"
