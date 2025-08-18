@@ -21,6 +21,7 @@ function validaNivelHeroi(xpHeroi){
     }
 }
 
-let res = validaNivelHeroi(10002)
+
+let res = validaNivelHeroi(8000)
 
 console.log("O Herói de nome " + (nomeHeroi) + " está no nível " + res)
