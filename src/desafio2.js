@@ -9,7 +9,7 @@ function balanceVictoryAndDefeat(numA, numB) {
     
 function validNivel(result){ 
     
-if (result <= 10){
+  if (result <= 10){
    return "Ferro" 
 
 } else if (result >= 11 && result <= 20){ 
@@ -38,10 +38,11 @@ if (result <= 10){
 
 //let nivel = validVictoryOrDefeat(10,5); 
 
-const saldoVitorias = balanceVictoryAndDefeat(10,5) 
+const saldoVitorias = balanceVictoryAndDefeat(16,5) 
 const nivel = validNivel(saldoVitorias) 
 
-if (saldoVitorias <=1){
+if (saldoVitorias <=1)
+    {
     console.log( `O Herói ${nameHero} tem saldo de ${saldoVitorias} vitória e está no nível ${nivel}`)
 
 } else {
