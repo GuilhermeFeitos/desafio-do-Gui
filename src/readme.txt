@@ -70,5 +70,5 @@ Ao final deve se exibir uma mensagem:
 
 // Desafio 2 entregue no dia 24.08.25
 
-Desafio 2 - utilizando function
+Desafio 2 - utilizando function sem laço de repetição
 Desafio 2.1 - Refatorado com laço de repetição
